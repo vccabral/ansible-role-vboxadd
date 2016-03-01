@@ -1,0 +1,3 @@
+---
+- name: Virtualbox Add Setup
+  shell: /etc/init.d/vboxadd setup
